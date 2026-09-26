@@ -2,22 +2,21 @@
 
 ## 👩‍💻 About Me
 
-I am an aspiring **Data Analyst** with a Bachelor's degree in Computer Science and Engineering and currently working as an **Adjunct Lecturer** at College of Technology affiliated with the National University, Bangladesh.
+I am a Computer Science and Engineering graduate and currently work as an **Adjunct Lecturer** at a College of Technology affiliated with the National University, Bangladesh.
 
-I enjoy turning raw data into meaningful insights through data analysis and visualization. I am continuously improving my skills in SQL, Excel, Power BI, Python, and Machine Learning while building practical projects to solve real-world problems.
+My academic background includes **machine learning, data analysis, software development, and research**. I have contributed to a research publication on loan approval prediction and model interpretability, including the development of its accompanying web application.
 
-I am actively seeking opportunities to start my career as a Data Analyst and expand my experience in business intelligence and analytics.
+I am currently strengthening my skills in **SQL, Excel, Power BI, Python, and Machine Learning** through self-directed learning and practical projects. I am particularly interested in using data and technology to understand problems, develop practical solutions, and support data-driven decision-making.
+
+## Research & Publication
+Raisa Akter, Rajib Kumar Halder, Mohammed Nasir Uddin, Md. Ashraf Uddin,Ansam Khraisat,Mijanur Rahman, Md. Kabir Hossain
+“Advancing Loan Approval Prediction With SHAP Guided Feature Selection and LIME Based-Model Interpretability in a Multiclassifier Context Through a Web -Based Application Development Approach”, International Journal of Intelligent Systems, Wiley.
+**DOI:** https://doi.org/10.1155/int/8899164
+
 
 ---
 
 ## 🛠️ Technical Skills
-
-### 📊 Data Analytics
-- Microsoft Excel
-- SQL (MySQL)
-- Power BI
-- Data Cleaning
-- Data Visualization
 
 ### 💻 Programming
 - Python
@@ -25,10 +24,17 @@ I am actively seeking opportunities to start my career as a Data Analyst and exp
 - PHP
 - Javascript
 
-### 🤖 Machine Learning
+  ### 🤖 Machine Learning
 - Scikit-learn
 - Pandas
 - NumPy
+
+### 📊 Data Analytics
+- Microsoft Excel
+- SQL (MySQL)
+- Power BI
+- Data Cleaning
+- Data Visualization
 
 ### 🗄️ Databases
 - MySQL
@@ -63,19 +69,10 @@ I am actively seeking opportunities to start my career as a Data Analyst and exp
 
 ### 📊 Power BI Dashboards
 ---
-## 🌱 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Python for Data Analysis
-- Statistics for Data Analytics
-- Data Storytelling
-
----
 
 ## 🎯 Career Goal
 
-To build a successful career as a **Data Analyst**, using data to solve business problems and support data-driven decision making.
+To pursue a Master’s degree in Computer Science or a related field, building on my background in machine learning, software development, research, and academic teaching while developing advanced skills in data-driven technologies and artificial intelligence.
 
 ---
 
